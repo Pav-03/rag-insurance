@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# pyenv local version file
+.python-version
+
+# Mac system files
+.DS_Store
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/

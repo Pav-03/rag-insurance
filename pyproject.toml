@@ -1,0 +1,9 @@
+[project]
+name = "rag-insurance"
+version = "0.1.0"
+description = "A RAG system for generating grounded health insurance denial appeals"
+require-python = ">=3.11"
+
+dependencies = [
+    "python-dotenv>=1.0.0",
+]
